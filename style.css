@@ -1,0 +1,100 @@
+/*Importar tipografías*/
+
+/*Open Sans*/
+@import url('https://fonts.googleapis.com/css2? familia = Abierto + Sans: peso @ 800 & display=swap');
+/*Monserrat*/
+@import url('https://fonts.googleapis.com/css2? familia = Montserrat &family= Open+Sans:wght@700 & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Montserrat:wght@400;500 & family= Open+Sans:wght@800 & display=swap');
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #cdc3db;
+    font-family: 'Open Sans' sans-serif;
+    font-weight: 600;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #cdc3db;
+    font-family: 'Open Sans' sans-serif;
+    font-weight: 600;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #cdc3db;
+    font-family: 'Open Sans' sans-serif;
+    font-weight: 600;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #cdc3db;
+    font-family: 'Open Sans' sans-serif;
+    font-weight: 600;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #cdc3db;
+    font-family: 'Open Sans' sans-serif;
+    font-weight: 600;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #cdc3db;
+    font-family: 'Open Sans' sans-serif;
+    font-weight: 600;
+}
+
+div{
+    padding: 20px;
+}
+
+div h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #cdc3db;
+    font-family: 'Open Sans' sans-serif;
+    font-weight: 600;
+}
+
+div p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;;
+    font-weight: 400;
+    text-align: justify;
+}
+
+div img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer h1{
+    color: white;
+    font-weight: 600;
+}
